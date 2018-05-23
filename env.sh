@@ -65,7 +65,7 @@ GCP_ZONE=us-west1-a
 
 # The GCP project to install the resources into
 # GCP_PROJECT=jlundberg-demo
-GCP_PROJECT=agjenni80-demo
+GCP_PROJECT=amanda-jennings-gcp
 
 # The GCP machine_type to create
 # GCP_MACHINE_TYPE=f1-micro

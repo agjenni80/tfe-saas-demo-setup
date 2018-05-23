@@ -53,7 +53,7 @@ GCP_REPO=agjenni80/terraform-gpc-compute-instance
 
 # Root name of the workspaces to create.   
 # GCP_WORKSPACE_PREFIX=gcp-compute-instance
-GCP_WORKSPACE_PREFIX=gcp-compute-instance
+GCP_WORKSPACE_PREFIX=ajennings-gcp-compute-instance
 
 # GCP Region to create assets in
 # GCP_REGION=us-west1

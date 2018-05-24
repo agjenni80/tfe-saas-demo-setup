@@ -6,7 +6,7 @@
 DEBUG=false
 
 # TFE SaaS Organization to install workspaces into.  This should be your own organization
-# ORGANIZATION=jake-lundberg
+# ORGANIZATION=ajennings
 ORGANIZATION=agjenni
 
 # Token with access to your repo.  Can be found with:
@@ -36,6 +36,7 @@ AWS_WORKSPACE_PREFIX=aws-ec2-instance
 # Your access key id to hc-se-demos
 # DO NOT PUT YOUR SECRET KEY ID IN ANY OF THESE FILES!!!!
 # AWS_ACCESS_KEY=AKIAJRQ7XD2F4FOTR36A
+AWS_ACCESS_KEY=AKIAIWSVBJMGUDKS7FVA
  
 # AWS Region to put assets into
 # AWS_REGION=us-east-1

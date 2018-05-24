@@ -12,11 +12,12 @@ ORGANIZATION=agjenni
 # Token with access to your repo.  Can be found with:
 # tfe oauth_tokens list --organization=${ORGANIZATION}
 # OAUTH_ID=ot-8675309Jennyyeah
-OAUTH_ID=user-1yYRrGg3Fx438d1m
+OAUTH_ID=ot-e51aae0ecb1b114ecad6
 
 # Owner/TTL tag values
 # OWNER=jlundberg
 # TTL=8
+OWNER=ajennnings
 TTL=8
 
 
@@ -50,7 +51,7 @@ AWS_INSTANCE_TYPE=t2.micro
 #### GCP SPECIFIC VARIABLES ####
 # Github repo for the GCP terraform assets.
 # GCP_REPO=grove-mountain/terraform-gpc-compute-instance
-GCP_REPO=agjenni80/terraform-gpc-compute-instance
+GCP_REPO=agjenni80/terraform-gcp-compute-instance
 
 # Root name of the workspaces to create.   
 # GCP_WORKSPACE_PREFIX=gcp-compute-instance
